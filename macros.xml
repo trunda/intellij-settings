@@ -1,0 +1,8 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Reformat">
+      <action id="ReformatCode" />
+      <action id="Tool_External Tools_PHP fixer" />
+    </macro>
+  </component>
+</application>
